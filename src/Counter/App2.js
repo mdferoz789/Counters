@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CounterChild2 from "./CounterChild2";
+import CounterChild2 from "../Counter/CounterChild2";
 
 const App2 = () => {
   const [counterB, setCounterB] = useState(0);
